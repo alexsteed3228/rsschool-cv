@@ -2,7 +2,7 @@
 
 
 ### Contacts
-* 
+
 
   * __Address:__ 9, Mirian Mepe, Tbilisi, Georgia
   * __Phone:__ +950557587262
@@ -11,10 +11,10 @@
 
 
 ### Languages 
-* 
-  * __English__ - Fluent
-  * __Russian__ - Native
-  * __Czech__ - B1
+
+* __English__ - Fluent
+* __Russian__ - Native
+* __Czech__ - B1
 
 
 
@@ -28,12 +28,16 @@ I am passionate about pursuing a career in IT. I enjoy solving complex problems 
 
 
 ### Programming languages/ Technologies
-* 
-* Technical documentation / SRS
+-Technical documentation / SRS
+
 -HTML/CSS
+
 -jSON/XML/CSV
+
 -Rest API
+
 -Python, JavaScript
+
 -selenium webdriver/selenium IDE
 
 
@@ -41,6 +45,7 @@ I am passionate about pursuing a career in IT. I enjoy solving complex problems 
 
 
 -MS SQL Server
+
 -T-SQL
 
 
@@ -48,7 +53,9 @@ I am passionate about pursuing a career in IT. I enjoy solving complex problems 
 
 
 -Agile, SCRUM, XP
+
 -Kanban
+
 -Waterfall
 
 
@@ -56,6 +63,7 @@ I am passionate about pursuing a career in IT. I enjoy solving complex problems 
 
 
 -Selenium WebDriver
+
 -Django, NumPy
 
 
@@ -63,14 +71,23 @@ I am passionate about pursuing a career in IT. I enjoy solving complex problems 
 
 
 -Postman
+
 -Jira
+
 -TestRail
+
 -Trello
+
 -Microsoft SQL server management studio
+
 -Git, GitExtensions, SourceTree
+
 -Fiddler Everywhere
+
 -Jmeter
+
 -Sublime text 3
+
 -PyCharm 2022 
 
 
@@ -90,12 +107,19 @@ __June – August 2009__ – English training at Sydney College of English, C1 c
 
 
 __December 2022 – Current Time__ ‘Python Universe’ (Professional), Stepik.org (Certificate)
+
 __November 2022 ‘Python Universe’__ (intermediate), Stepik.org (Certificate)
+
 __October 2022 “Browser automation with Python and selenium”__ Coursehunter.net
+
 __October 2022 Microsoft Server SQL Management Studio (SQL Beginner)__ Coursehunter.net
+
 __October 2022 ‘How to become a tester’__ Stepik.org (Certificate)
+
 __September 2022 – November 2022 QC/QA courses By Natalia Popelyshko__ Coursehunter.net
+
 __March 2022 ‘Python Universe’__ (Beginners) Stepik.org (Certificate)
+
 * __August 2021 – September 2022__ - Sommelier Big Wine Freaks, Saint-Petersburg, Russia
   *	Consulting guests in wine choosing from the list of 350 different wines and champagnes
   * Tasting wine before serving to check if wine has any defects
